@@ -1,5 +1,5 @@
 /*
- * 負責從IMDB網頁中提取電影資訊，這是另一種策略。
+ * 從IMDB網頁中提取電影資訊
  */
 
 package com.movieinfo.strategy;
