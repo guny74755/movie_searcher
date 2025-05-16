@@ -1,5 +1,5 @@
 /*
- * 負責將電影類型從英文翻譯成中文，這是一種策略。
+ * 將電影類型從英文翻譯成中文。
  */
 package com.movieinfo.strategy;
 
