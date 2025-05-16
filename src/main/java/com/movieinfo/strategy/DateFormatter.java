@@ -1,9 +1,8 @@
 /*
- * 負責將日期格式轉換成中文格式，這是一種策略。
+ * 將日期格式轉換成中文格式
  */
 
 package com.movieinfo.strategy;
-
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
