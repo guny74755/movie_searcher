@@ -1,0 +1,19 @@
+# Maven
+target/
+bin/
+lib/
+
+# IDE
+.settings/
+.classpath
+.project
+.idea/
+*.iml
+
+# Compiled files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear 
