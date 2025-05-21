@@ -16,7 +16,7 @@ public class IMDBDataExtractor implements MovieDataExtractor {
 
     // 常量選擇器
     private static final String TITLE_SELECTOR = "h1";
-    private static final String ORIGINAL_TITLE_SELECTOR = "div.sc-ec65ba05-1:contains(Original title:)";
+    private static final String ORIGINAL_TITLE_SELECTOR = "div.sc-103e4e3c-1:contains(Original title:)";
     private static final String RATING_SELECTOR = "[data-testid=hero-rating-bar__aggregate-rating__score]";
     private static final String RELEASE_DATE_SELECTOR = "[data-testid=title-details-releasedate]";
     private static final String GENRE_SELECTOR = ".ipc-chip.ipc-chip--on-baseAlt .ipc-chip__text";
